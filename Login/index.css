@@ -1,8 +1,8 @@
 .tb1{
     /* border: 1px; */
     /* border-color: rgb(192, 198, 177); */
-    height: 300px;
-    width: 350px;
+    height: 400px;
+    width: 380px;
     background-color: whitesmoke;
     align-items: center;
     margin-left: 500px;
@@ -12,15 +12,51 @@
 .f1{
     margin-top: 10px;
     padding-left: 50px;
-    margin-left: 50px;
+    /* margin-left: 50px; */
     align-items: center;
+    border: none;
     }
     
 .b1{
-        background-color: rgb(82, 146, 161);
-        color: white;
-        margin-top: 15px;
-        margin-left: 150px;
-        width:max-content;
-        height: 20px;
+        background: #1791bee3;
+color: white;
+border-style: outset;
+border: none;
+height: 30px;
+width: 280px;
+margin-left: 50px;
+margin-top: 15px;
+font-family: bold15px arial,sans-serif;
+text-shadow: none;
+    }
+
+    .a1{
+        position: absolute;
+left:700px;
+top:285px;
+font-size: 15px;
+        color: #0ab2d7e3;
+font-family: arial,sans-serif;
+
+    }
+
+    .t1{
+        height: 35px;
+        width:250px;
+       border: whitesmoke;
+padding: 5px;
+padding-left: 15px;
+font-family: bold15px arial,sans-serif;
+font-size: 15px;
+
+    }
+
+    .t2{
+        height: 35px;
+        width:250px;
+       border: whitesmoke;
+padding: 5px;
+padding-left: 15px;
+font-family: bold15px arial,sans-serif;
+font-size: 15px;
     }
